@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(imagens/pattern-background-desktop.svg);
+    background-image: url(./imagens/pattern-background-desktop.svg);
     background-repeat: repeat-x;
     background-color: #e0e8ff;
 }
