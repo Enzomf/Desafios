@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./imagens/pattern-background-desktop.svg);
+    background-image: url(../imagens/pattern-background-desktop.svg);
     background-repeat: repeat-x;
     background-color: #e0e8ff;
 }
@@ -54,7 +54,7 @@ section.conteudo {
 }
 
 .change {
-    background-image: url(imagens/icon-music.svg);
+    background-image: url(../imagens/icon-music.svg);
     background-repeat: no-repeat;
     background-position: center left 10px;
     background-color: #f5f7ff;
